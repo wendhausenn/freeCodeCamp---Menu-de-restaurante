@@ -1,4 +1,4 @@
-# freeCodeCamp---Menu-de-restaurante
+# freeCodeCamp - Menu-de-restaurante
 
 Menu de uma cafeteria, em HTML e CSS.
 
